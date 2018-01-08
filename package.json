@@ -1,0 +1,19 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "'play anywhere'",
+  "main": "index.js",
+  "scripts": {
+    "test": "'run tic-tac-toe'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackieline/tic-tactoe-cli.git"
+  },
+  "author": "Jacqueline Leung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackieline/tic-tactoe-cli/issues"
+  },
+  "homepage": "https://github.com/jackieline/tic-tactoe-cli#readme"
+}
